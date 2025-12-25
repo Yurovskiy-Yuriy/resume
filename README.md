@@ -1,4 +1,4 @@
-![Юрий Юровский](https://github.com/Yurovskiy-Yuriy/resume/main/photo.jpg?raw=true)
+![Юрий Юровский](https://github.com/Yurovskiy-Yuriy/resume/blob/main/photo.jpg?raw=true)
 
 # Юровский Юрий  
 **Сетевой инженер**  
